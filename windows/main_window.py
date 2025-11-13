@@ -1,7 +1,7 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
 from core.base_window import BaseWindow
 from core.app_manager import AppManager
-from settings_window import SettingsDialog
+from windows.settings_window import SettingsDialog
 from windows.explore_list import ExploreListWindow
 from windows.create_list import CreateListWindow
 
